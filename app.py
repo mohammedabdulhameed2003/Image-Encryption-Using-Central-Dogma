@@ -3,6 +3,8 @@ import numpy as np
 from PIL import Image
 
 
+
+
 st.set_page_config(page_title="Image Encryption", page_icon="🔑", layout="wide")
 
 
